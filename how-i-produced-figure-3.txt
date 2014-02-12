@@ -1,0 +1,20 @@
+  451  history
+  452  open /Applications/gedit.app/
+  453  head -5 animals.txt | tail -3
+  454  head -5 animals.txt | tail -3 | wc -l
+  455  tail -4 animals.txt | head -3
+  456  clear
+  457  history | tail -20 > how-i-produced-figure-3.txt
+  458  cat >> how-i-produced-figure-3.txt 
+  459  LS
+  460  ls
+  461  cat how-i-produced-figure-3.txt 
+  462  bash
+  463  cd zipper/
+  464  ls
+  465  cat how-i-produced-figure-3.txt 
+  466  cat > Notes
+  467  cat >> Notes 
+  468  ls
+  469  !
+  470  history | tail -20 > how-i-produced-figure-3.txt

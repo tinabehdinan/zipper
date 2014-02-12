@@ -1,0 +1,8 @@
+I like this history and piping business: 
+  457  history | tail -20 > how-i-produced-figure-3.txt
+you can get the above line by typing !457
+  465  cut
+  466  cut -d , -f 1-2 animals.txt 
+  467  history | tail -3 >> Notes 
+uniq only removes adjacent duplicated lines. so to remove all duplicated lines, sort data first
+uniq -c does counts for each line
